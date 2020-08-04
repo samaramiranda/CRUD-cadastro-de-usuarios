@@ -5,7 +5,7 @@
 
 ## :rocket: Sobre o projeto
 
-Este é um site desenvolvido em ReactJS para cadastro de usuários, nele é possível efetuar o cadastro de um ou vários usuários, consultar todos os usuários cadastrados, editar as informações do usuário ou excluir o usuário. Também foi trabalhada na interface o conceito de responsividade para que ela possa se adaptar a telas menores.
+Este é um site desenvolvido em ReactJS para cadastro de usuários, nele é possível efetuar o cadastro de um ou vários usuários, consultar todos os usuários cadastrados, editar as informações de um usuário ou excluí-lo. Também foi trabalhada na interface o conceito de responsividade para que ela possa se adaptar a telas menores.
 
 No cadastro o usuário deve informar os seguintes dados:
 - Nome;
@@ -18,9 +18,9 @@ Quando o usuário clica em "Salvar" os seus dados são adicionados a lista de us
 - Ação de editar (representada por um lápis);
 - Ação de excluir (representada por uma lixeira).
 
-Se clicado em "Editar" o nome e e-mail do usuário são retornados ao campo de cadastro para que possam ser editados e salvas as alterações.
+Clicando em "Editar" o nome e e-mail do usuário são retornados ao campo de cadastro para que possam ser editados e salvas as alterações.
 
-Se clicado em "Excluir" o usuário selecionado é removido automaticamente da lista de usuário cadastrados no site.
+Clicando em "Excluir" o usuário selecionado é removido automaticamente da lista de usuário cadastrados no site.
 
 ## :computer: Tecnologias usadas:
 
@@ -49,6 +49,8 @@ Se clicado em "Excluir" o usuário selecionado é removido automaticamente da li
 ![tela2](https://user-images.githubusercontent.com/23708544/89244256-6c04d980-d5dc-11ea-85cc-66f905df736c.png)
 
 ### Interface responsiva
+![Captura de Tela (177)](https://user-images.githubusercontent.com/23708544/89332249-728d6280-d669-11ea-8ac5-7abba63f1e69.png)
+
 ![Captura de Tela (175)](https://user-images.githubusercontent.com/23708544/89244292-7d4de600-d5dc-11ea-9a9e-bacb1bce0c4b.png)
 
 
